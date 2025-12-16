@@ -1,4 +1,4 @@
-# Transcriptomic Profiling of Psoriatic Arthritis and Psoriasis
+# Transcriptomic Profiling of Psoriatic Arthritis and Psoriasis Skin Lesions Reveals Shared and Distinct Gene Expression Signatures
 
 This repository presents a transcriptomic analysis comparing skin biopsies from patients with Psoriatic Arthritis (PsA), Psoriasis (PsO), and healthy controls. The goal is to identify gene expression differences that may enable earlier, non-invasive diagnosis of PsA using skin biopsies.
 
